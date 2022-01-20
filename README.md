@@ -25,7 +25,7 @@ Pour commencer à utiliser ce boilerplate, il faudra ouvrir un terminal via visu
 npm install -> Installe les dépendances
 npm start -> Démarre le serveur
 ```
-Et let's go pour le code :-)
+**Et let's go pour le code :-)**
 
 # Ce qui a été mis en place pour vous
 - Un serveur qui se rafraichit à chaque changement dans votre code.
