@@ -1,9 +1,9 @@
 # Installation
 Pour installer le projet, ouvrez un terminal avec git bash et naviguer dans un dossier où le boilerplate sera installé
 ```bash
-npx degit https://... ./project-ux  (Cette commande permet de récupérer un projet git et d'y supprimer le dossier .git)
-
+npx degit https://github.com/remadex/boilerplate-project-ux.git ./project-ux  
 ```
+Cette commande permet de récupérer un projet git et d'y supprimer le dossier .git <br /><br />
 Une fois que le projet est installé, quittez git bash.<br />
 Ouvrez Visual Studio Code et ouvrez le dossier ./project-ux
 ## Première utilisation (à faire qu'une fois et par une seule personne)
@@ -12,7 +12,6 @@ Lors de la première utilisation de ce projet, **quelqu'un** de votre groupe dev
 git init
 git add .
 git commit -m"init project"
-
 ```
 Ensuite aller sur Github, créer un dépôt (en privé de préférence), suivre les instructions pour un projet déjà existant.<br />
 Il faut également aller dans les paramètres du dépôt et ajouter les autres membres du groupe au dépôt
