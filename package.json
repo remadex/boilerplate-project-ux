@@ -4,7 +4,7 @@
   "description": "Boilerplate pour le projet des UX",
   "main": "index.js",
   "scripts": {
-    "start": "parcel 'pages/*.html'"
+    "start": "parcel pages/*.html"
   },
   "type": "module",
   "author": "",
